@@ -1,0 +1,15 @@
+/* button-next */
+.button-next-back ul{
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.button-next-back li{
+    float: left;
+    padding: 10px;
+}
+.button-next-back button{
+    font-size: 10px;
+    font-weight: 700;
+}
